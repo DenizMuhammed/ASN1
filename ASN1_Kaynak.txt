@@ -4,3 +4,39 @@ https://www.itu.int/en/ITU-T/asn1/Pages/asn1_project.aspx
 https://www.itu.int/en/ITU-T/asn1/Pages/asn1_project.aspx
 
 https://www.oss.com/index.html
+
+HEX / OID Dönüşümü
+https://crypto.stackexchange.com/questions/29115/how-is-oid-2a-86-48-86-f7-0d-parsed-as-1-2-840-113549
+
+What are x509 certificates? RFC? ASN.1? DER?
+https://www.cryptologie.net/article/262/what-are-x509-certificates-rfc-asn1-der/
+
+OID assignments from the top node
+https://www.alvestrand.no/objectid/top.html
+
+OBJECT IDENTIFIER
+https://learn.microsoft.com/en-us/windows/win32/seccertenroll/about-object-identifier?redirectedfrom=MSDN
+
+CardContact
+https://www.openscdp.org/scripts/tutorial/emv/tlv.html
+
+ASN.1 vs DER vs PEM vs x509 vs PKCS#7 vs
+https://www.cryptologie.net/article/260/asn1-vs-der-vs-pem-vs-x509-vs-pkcs7-vs/
+
+Introduction to ASN.1
+https://www.youtube.com/watch?v=EccHushRhWs
+
+ASN.1
+https://obj-sys.com/asn1tutorial/asn1only.html
+
+SEQUENCE
+https://learn.microsoft.com/en-us/windows/win32/seccertenroll/about-sequence?redirectedfrom=MSDN
+
+OID Converter
+https://rtner.de/software/oid.html
+
+ASN.1 Listing of Universal Tags
+https://obj-sys.com/asn1tutorial/node124.html
+
+ASN.1 Simple Types
+https://obj-sys.com/asn1tutorial/node10.html
